@@ -106,46 +106,76 @@ Username και password στην πλατφόρμα Thingsboard (μόνο σε 
 
 https://www.enukesoftware.com/food-delivery-application-development-company.html
 
-Η Food Box είναι μία δυναμική κινητή εφαρμογή της Enuke (Digital Power House), η οποία αποτελεί Υπηρεσία παράδοσης φαγητού με δυνατότητα εύρεσης αντίστοιχων καταστημάτων εστίασης – από μικρά έως αλυσίδες μεγάλων εταιριών. 
+Η Food Box είναι μία δυναμική κινητή εφαρμογή της Enuke (Digital Power House), η οποία αποτελεί Υπηρεσία παράδοσης φαγητού με δυνατότητα εύρεσης αντίστοιχων καταστημάτων εστίασης – από μικρά έως αλυσίδες μεγάλων εταιριών (βλ. Εικόνα Α1 & Α2). 
 Στις δυνατότητές της, παρέχεται:
     • η εφαρμογή επιλογών διαφορετικών φίλτρων όπως τοποθεσία (κινητής) συσκευής, τύπος κουζίνας, κλπ.
     • Λεπτομερής παρακολούθηση της παραγγελίας σε πραγματικό χρόνο από μεριάς του πελάτη με χρήση GPS. (Ανάλογη δυνατότητα παρέχει και η Instacart (https://www.instacart.com/), μέσω της οποίας μπορεί κανείς να παραγγείλει λαχανικά, καλυντικά, κ.α., και η οποία κάνει χρήση του Github για τη φιλοξενία του κώδικά του (https://www.mobindustry.net/blog/the-technology-behind-instacart/)).
     • Η συνδεσιμότητα είναι εύκολη, ενώ ο οποιοσδήποτε μπορεί να παραγγείλει χωρίς να υπάρχει το ενδεχόμενο ο μεταφορέας του φαγητού να μη βρει την τοποθεσία της παραγγελίας, αφού αυτή μπορεί να παρέχεται από τη χρήση του ΔτΠ.
     • Υπάρχει (όπως ισχυρίζεται η εταιρία) η δυνατότητα της παράδοσης φρεσκομαγειρεμένου φαγητού ακριβώς τη στιγμή άφιξης του πελάτη στο σπίτι του.
 
+![Εικόνα Α1](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/Α1-1.%20Enuke1.jpg)
+
+Εικόνα Α1
 
 Δυνατότητες της εφαρμογής
+
+![Εικόνα Α2](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/Α1-2.%20Enuke2.jpg)
+
+
+Εικόνα Α2
+
 Λειτουργίες της εφαρμογής
 
 Β) Άλλη μία εταιρία παράδοσης φαγητού είναι η Doordash (https://www.doordash.com/), η οποία απέκτησε την Scotty Labs τον Αύγουστο του 2019. Η τελευταία ασχολείται με τον απομακρυσμένο έλεγχο οχημάτων. 
 Η βασική αρχή της τελευταίας είναι ότι: “η αυτονομία και ο απομακρυσμένος έλεγχος είναι το μέλλον” (https://techcrunch.com/2019/08/20/doordash-acquires-autonomous-driving-startup-scotty-labs/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAAJVq1CL3ITxaW37-VrfT-oG3HTYRwxuLqfXZtBIY6Itq0wOMg-qUiym8xTGV6ZIoLMhnTr7zRAQCyGqiJSW2k9DxvluQMFuPPGWn7y0HybhhIlGK0FNmnsiAj55zbtHkkQ40JA_1miBwiwItuvDizTkLAnHnUnWcYJA4tDTvyHp και https://www.theverge.com/2019/8/21/20826327/doordash-acquires-scotty-labs-autonomous-vehicle-remote-control-startup). Δύο παραδείγματα προϊόντων της (στις ΗΠΑ) είναι ένα αυτοκινούμενο όχημα σε λεωφόρο της Καλιφόρνια (https://www.youtube.com/watch?v=-ruCxPV8wDk&t=7s) και ο απομακρυσμένος έλεγχος αυτοκινήτου στο Σαν Φρανσίσκο (https://www.youtube.com/watch?v=OYk-IUeiT48&t=2s). Και προφανώς κάποιος θα μπορούσε να σκεφτεί ότι η Doordash έχει στις προοπτικές της την εφαρμογή αυτών των πρωτοτύπων σε σχέση με την παράδοση φαγητού.
-Νωρίτερα (2017), σε συνεργασία με την Starship Technologies έκανε μία προσπάθεια παράδοσης φαγητού με χρήση ημιαυτόνομων ρομπότ (https://www.theverge.com/2017/1/18/14300054/food-delivery-robots-postmates-doordash-us-launch). Αξίζει να αναφερθεί ότι τα εν λόγω ρομπότ έφταναν την ταχύτητα των 6,48 χλμ/ώρα (4 μιλίων/ώρα) (https://www.digitaltrends.com/cool-tech/starship-technologis-doordash-postmates/)
+Νωρίτερα (2017), σε συνεργασία με την Starship Technologies έκανε μία προσπάθεια παράδοσης φαγητού με χρήση ημιαυτόνομων ρομπότ (Βλ. Εικόνα Α3). (https://www.theverge.com/2017/1/18/14300054/food-delivery-robots-postmates-doordash-us-launch). Αξίζει να αναφερθεί ότι τα εν λόγω ρομπότ έφταναν την ταχύτητα των 6,48 χλμ/ώρα (4 μιλίων/ώρα) (https://www.digitaltrends.com/cool-tech/starship-technologis-doordash-postmates/)
+
+![Εικόνα Α3](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/Α1-3.%20starship-delivery-robot-029.0.0%20-%20β.jpg)
+
+Εικόνα Α3
 
 
+Ακόμη,  συνεργάστηκε για τον ίδιο λόγο και με την εταιρία Marble (βλ. Εικόνα Α4). (https://medium.com/@DoorDash/welcoming-our-newest-robots-to-the-doordash-fleet-with-marble-e752a85d6602)
 
 
+![Εικόνα Α4](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/Α1-4.%20Doordash%20-%20Marble.jpeg)
 
+Εικόνα Α4
 
-Ακόμη,  συνεργάστηκε για τον ίδιο λόγο και με την εταιρία Marble. (https://medium.com/@DoorDash/welcoming-our-newest-robots-to-the-doordash-fleet-with-marble-e752a85d6602)
+Τέλος, το ίδιο έτος, συνεργάστηκε με την General Motors για τον έλεγχο λειτουργίας Υπηρεσίας παράδοσης φαγητού στο Σαν Φρανσίσκο, χρησιμοποιώντας αυτόνομα οχήματα (βλ. Εικόνα Α5). (https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery και https://www.youtube.com/watch?v=NEj-4d0SHPI)
 
+![Εικόνα Α5](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/A1-5.%20cruise_gm_bolt.0.jpg)
 
-Τέλος, το ίδιο έτος, συνεργάστηκε με την General Motors για τον έλεγχο λειτουργίας Υπηρεσίας παράδοσης φαγητού στο Σαν Φρανσίσκο, χρησιμοποιώντας αυτόνομα οχήματα. (https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery και https://www.youtube.com/watch?v=NEj-4d0SHPI)
+Εικόνα Α5
 
  Η  Doordash έχει εξαγοράσει και την Φινλανδική Wolt στις 9/11/2021, η οποία δραστηριοποιείται και σε κάποιες πόλεις της Χώρας μας (Θεσσαλονίκη, Λάρισα, Πάτρα, Ηράκλειο, Βόλος, Χανιά, Αθήνα) από το 2019 (https://en.wikipedia.org/wiki/Wolt).
 
-Γ) Η Serve Robotics (https://www.serverobotics.com/) έχει δημιουργήσει εμπορικά διαθέσιμα αυτόνομα οχήματα που μπορούν να ικανοποιούν την ανάγκη για παράδοση φαγητού. Τα οχήματά της περιλαμβάνουν συστήματα πλοήγησης με έξυπνες κάμερες ΔτΠ και χρήση υπερήχων για να αντιλαμβάνονται τα πεζοδρόμια σε μία μεγαλούπολη. Η ίδια εταιρεία αναπτύσσει και το Lidar, μία τεχνική που ανιχνεύει το τοπίο σε τρισδιάστατη μορφή.
+Γ) Η Serve Robotics (https://www.serverobotics.com/) έχει δημιουργήσει εμπορικά διαθέσιμα αυτόνομα οχήματα που μπορούν να ικανοποιούν την ανάγκη για παράδοση φαγητού. Τα οχήματά της περιλαμβάνουν συστήματα πλοήγησης με έξυπνες κάμερες ΔτΠ και χρήση υπερήχων για να αντιλαμβάνονται τα πεζοδρόμια σε μία μεγαλούπολη (βλ. Εικόνα Α6). Η ίδια εταιρεία αναπτύσσει και το Lidar, μία τεχνική που ανιχνεύει το τοπίο σε τρισδιάστατη μορφή.
 (Βλ. https://www.youtube.com/watch?v=wfnZnjx37fQ, https://www.youtube.com/watch?v=Zj8uxCHPBQg, https://www.youtube.com/watch?v=sCes61Qr3KA, https://www.youtube.com/watch?v=LnrYfHwCp5A και https://www.youtube.com/watch?v=PZtacRUSMUc).
 
 
+![Εικόνα Α6](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/A1-6.%20Serve%20Robotics.jpg)
 
-Έτσι, έχει εξασφαλιστεί μεγάλη επένδυση από την αμερικανική επιχείρηση παροχής υπηρεσιών Uber(https://www.uber.com/) (θυγατρική της οποίας είναι οι εταιρίες παράδοσης φαγητού Uber Eats (https://www.ubereats.com/ και https://en.wikipedia.org/wiki/Uber_Eats) και η Postmates (https://postmates.com/ και https://en.wikipedia.org/wiki/Postmates) (https://www.iotworldtoday.com/2022/01/19/uber-spinoff-starts-all-autonomous-deliveries-in-la/ και https://www.serverobotics.com/serve-secures-funding). Το ρομπότ της Postmates, με όνομα Serve, μπορούσε το 2018 να φέρει βάρος έως 22,68 κιλά (50 pound) και να διανύσει απόσταση έως περίπου 48 χλμ (30 μιλίων), που ισοδυναμεί περίπου με 12 παραδόσεις(στις ΗΠΑ). Εφερε αισθητήρες Velodyne Lidar για την αποφυγή εμποδίων και επεξεργαστή Nvidia Xavier (https://www.digitaltrends.com/cars/nvidia-xavier-processor-news-uses-capacities-partnerships/). Επίσης, φέρει φανάρι ασφαλείας στο πάνω μέρος του, τα “μάτια” του κινούνται προς την κατεύθυνση που θα κινηθεί και ο διαχειριστής του μπορεί να το χειριστεί απομακρυσμένα κατά βούληση. Έχει οθόνη αφής για την πληκτρολόγηση του κωδικού παραγγελίας, ώστε ο πελάτης να λάβει την παραγγελία του, ενώ υπάρχει και πλήκτρο βοήθειας, μέσω του οποίου μπορεί κάποιος να επικοινωνήσει με την εταιρία αν προκύψει κάποιο πρόβλημα. Τα πιθανά προβλήματα που μπορεί να προκύψουν από αυτήν τη νέα τεχνολογία είναι τα εξής: είναι επιρρεπή σε βανδαλισμό ή κλοπή, το ενδεχόμενο ο οποισδήποτε να “αστειευτεί” βάζοντας μία κουβέρτα επάνω σ’αυτό (αποπροσανατολίζοντάς το) και η έλλειψη νομοθετικού πλαισίου για την κυκλοφορία τους (https://www.digitaltrends.com/cool-tech/say-hello-to-serve-postmates-cute-autonomous-delivery-robot/). Ανάλογο ρομπότ, κινούμενο στους 2 τροχούς είναι το YAPE(Your Autonomous Pony Express) της Ιταλικής E-Novia. Μπορεί να φέρει φορτίο έως 20 κιλά, με ταχύτητα έως 3,7 χλμ/ώρα στα πεζοδρόμια και έως 20 χλμ/ώρα στους ποδηλατόδρομομυς, και κάλυψη απόστασης έως 80 χλμ! Για την παράδοση του πακέτου, ο πελάτης θα πρέπει να 	έχει καταχωρηθεί στο Σύστημα, και λαμβάνει την παραγγελία του με χρήση αναγνώρισης προσώπου. (https://www.digitaltrends.com/cool-tech/delivery-robot-yape-e-novia/, https://newatlas.com/yape-ground-delivery-drone/52751/, https://e-novia.it/startup/yape/, https://www.yapemobility.it/ και https://www.youtube.com/embed/zySD-4Q4sBo?enablejsapi=1)
+Εικόνα Α6
 
-
-
-
-) Η Panasonic έχει δημιουργήσει το προϊόν της με όνομα “Food Locker” (https://na.panasonic.com/us/smart-locker), το οποίο θα μπορούσε να χρησιμοποιηθεί σε μία προσέγγιση υλοποίησης παράδοσης φαγητού με χρήση του ΔτΠ. Με τη χρήση αυτού του προϊόντος, ο πελάτης ενός εστιατορείου, μπορεί να παραγγείλει το φαγητό του, έχοντας εξασφαλισμένη την ποιότητα και ασφάλεια μεταφοράς φρέσκου φαγητού. Τα “κουτιά” αυτά μπορούν να ανοιχτούν μόνο από τον πελάτη με τον κωδικό παραγγελίας. Ο κωδικός σαρώνεται, το κουτί ανοίγει, ο πελάτης παίρνει το φαγητό του και όταν κλείσει το Food Locker, η διαδικασία παράδοσης/παραγγελίας έχει ολοκληρωθεί.
+Έτσι, έχει εξασφαλιστεί μεγάλη επένδυση από την αμερικανική επιχείρηση παροχής υπηρεσιών Uber(https://www.uber.com/) (θυγατρική της οποίας είναι οι εταιρίες παράδοσης φαγητού Uber Eats (https://www.ubereats.com/ και https://en.wikipedia.org/wiki/Uber_Eats) και η Postmates (https://postmates.com/ και https://en.wikipedia.org/wiki/Postmates) (https://www.iotworldtoday.com/2022/01/19/uber-spinoff-starts-all-autonomous-deliveries-in-la/ και https://www.serverobotics.com/serve-secures-funding). Το ρομπότ της Postmates (βλ. Εικόνα Α6), με όνομα Serve, μπορούσε το 2018 να φέρει βάρος έως 22,68 κιλά (50 pound) και να διανύσει απόσταση έως περίπου 48 χλμ (30 μιλίων), που ισοδυναμεί περίπου με 12 παραδόσεις(στις ΗΠΑ). Εφερε αισθητήρες Velodyne Lidar για την αποφυγή εμποδίων και επεξεργαστή Nvidia Xavier (https://www.digitaltrends.com/cars/nvidia-xavier-processor-news-uses-capacities-partnerships/). Επίσης, φέρει φανάρι ασφαλείας στο πάνω μέρος του, τα “μάτια” του κινούνται προς την κατεύθυνση που θα κινηθεί και ο διαχειριστής του μπορεί να το χειριστεί απομακρυσμένα κατά βούληση. Έχει οθόνη αφής για την πληκτρολόγηση του κωδικού παραγγελίας, ώστε ο πελάτης να λάβει την παραγγελία του, ενώ υπάρχει και πλήκτρο βοήθειας, μέσω του οποίου μπορεί κάποιος να επικοινωνήσει με την εταιρία αν προκύψει κάποιο πρόβλημα. Τα πιθανά προβλήματα που μπορεί να προκύψουν από αυτήν τη νέα τεχνολογία είναι τα εξής: είναι επιρρεπή σε βανδαλισμό ή κλοπή, το ενδεχόμενο ο οποισδήποτε να “αστειευτεί” βάζοντας μία κουβέρτα επάνω σ’αυτό (αποπροσανατολίζοντάς το) και η έλλειψη νομοθετικού πλαισίου για την κυκλοφορία τους (https://www.digitaltrends.com/cool-tech/say-hello-to-serve-postmates-cute-autonomous-delivery-robot/). Ανάλογο ρομπότ, κινούμενο στους 2 τροχούς είναι το YAPE(Your Autonomous Pony Express) της Ιταλικής E-Novia (βλ. Εικόνα Α7). Μπορεί να φέρει φορτίο έως 20 κιλά, με ταχύτητα έως 3,7 χλμ/ώρα στα πεζοδρόμια και έως 20 χλμ/ώρα στους ποδηλατόδρομομυς, και κάλυψη απόστασης έως 80 χλμ! Για την παράδοση του πακέτου, ο πελάτης θα πρέπει να 	έχει καταχωρηθεί στο Σύστημα, και λαμβάνει την παραγγελία του με χρήση αναγνώρισης προσώπου. (https://www.digitaltrends.com/cool-tech/delivery-robot-yape-e-novia/, https://newatlas.com/yape-ground-delivery-drone/52751/, https://e-novia.it/startup/yape/, https://www.yapemobility.it/ και https://www.youtube.com/embed/zySD-4Q4sBo?enablejsapi=1)
 
 
+![Εικόνα Α7](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/A1-7.%20yape.jpg)
+
+Εικόνα Α7
+
+
+Δ) Η Panasonic έχει δημιουργήσει το προϊόν της με όνομα “Food Locker” (https://na.panasonic.com/us/smart-locker), το οποίο θα μπορούσε να χρησιμοποιηθεί σε μία προσέγγιση υλοποίησης παράδοσης φαγητού με χρήση του ΔτΠ (βλ. Εικόνα Α8 & Εικόνα Α9). Με τη χρήση αυτού του προϊόντος, ο πελάτης ενός εστιατορείου, μπορεί να παραγγείλει το φαγητό του, έχοντας εξασφαλισμένη την ποιότητα και ασφάλεια μεταφοράς φρέσκου φαγητού. Τα “κουτιά” αυτά μπορούν να ανοιχτούν μόνο από τον πελάτη με τον κωδικό παραγγελίας. Ο κωδικός σαρώνεται, το κουτί ανοίγει, ο πελάτης παίρνει το φαγητό του και όταν κλείσει το Food Locker, η διαδικασία παράδοσης/παραγγελίας έχει ολοκληρωθεί.
+
+![Εικόνα Α8](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/A1-8.%20agnostic-584x389.jpg)
+
+ Εικόνα Α8
+ 
+
+![Εικόνα Α9](https://github.com/FoititisEAP/ERG4/blob/main/Εικόνες/Α1/A1-9.%20panasonic-smart-food-lockers-3-easy-steps-to-a-contactless-carry-out-solution-for-food-service.jpg)
+ 
+ Εικόνα Α9
 
 
  
