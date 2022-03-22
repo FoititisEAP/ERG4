@@ -271,6 +271,15 @@ https://www.enukesoftware.com/food-delivery-application-development-company.html
 
 Εικόνα Β5
 
+Πληκτρολογούμε στη γραμμή εντολών συστήματος (command prompt) για κάθε θερμόμετρο που θα συνδέσουμε, την εντολή:
+
+curl -v -X POST -d "{\"temperature\": 25}" $THINGSBOARD_HOST_NAME/api/v1/$ACCESS_TOKEN/telemetry --header "Content-Type:application/json"
+
+αντικαθιστώντας παράλληλα το $THINGSBOARD_HOST_NAME με το https://demo.thingsboard.io και το $ACCESS_TOKEN με το αντίστοιχο διαπιστευτήριο της συσκευής (αυτό που αντιγράψαμε προηγουμένως). Στην περίπτωση άλλων συσκευών, αλλάζουμε το {\"temperature\": 25} αντιστοίχως.
+
+Έτσι, στην συγκεκριμένη περίπτωση θα έχουμε:
+
+curl -v -X POST -d "{\"temperature\": 25}" https://demo.thingsboard.io/api/v1/Eu7MrPf7wJDjJStBw1sf/telemetry --header "Content-Type:application/json" 
 
 
 (Εικόνα Β3).
