@@ -324,7 +324,7 @@ curl -v -X POST -d "{\"temperature\": 25}" https://demo.thingsboard.io/api/v1/Eu
 
 Εικόνα Β10
 
-Προαπαιτούμενο λογισμικό είναι το "Docker Desktop", το οποίο θα εγκαταστήσουμε. (https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
+
 
 
 (Εικόνα Β3).
