@@ -366,10 +366,17 @@ curl -v -X POST -d "{\"temperature\": 25}" https://demo.thingsboard.io/api/v1/Eu
 
 
 Στη συνέχεια, μπορούμε να αποδώσουμε τιμές στις συσκευές μας. Ας χρησιμοποιήσουμε - για παράδειγμα - στη Γραμμή εντολών την εντολή:
+
+
 curl -v -X POST -d "{\"temperature\": 29}" https://demo.thingsboard.io/api/v1/EpG2ORzRkSeySnccXVkn/telemetry --header "Content-Type:application/json"
+
+
 η οποία απευθύνεται στη συσκευή "Θερμόμετρο β'" (βλ Εικόνα Β16). Εδώ, το διακριτικό διαπιστευτηρίου αυτής της συσκευής είναι το "EpG2ORzRkSeySnccXVkn".
 
+
+
 ![Εικόνα Β16](./Εικόνες/Β1/16.%20Απόδοση%20τιμών%20σε%20συσκευή%20α'.jpg)
+
 
 Εικόνα Β16
 
